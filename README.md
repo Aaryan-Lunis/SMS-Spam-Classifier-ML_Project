@@ -22,7 +22,6 @@ A Machine Learning-powered web app that classifies SMS messages as **Spam** or *
 * 📊 Displays prediction confidence score
 * 📚 Jupyter Notebook included to explain training and evaluation
 * 🗃️ Maintains a local prediction history (with option to delete)
-* ⚡ Clean, modern UI with real-time behavior
 * 🌐 Fully deployed and accessible online
 
 ---
@@ -107,19 +106,18 @@ sms-spam-classifier/
 
 ## 🛠️ Technologies Used
 
-* Python 🐍
-* scikit-learn 🧠
-* NLTK 🗣️
-* Streamlit ⚡
-* Jupyter Notebook 📓
+* Python 
+* scikit-learn 
+* NLTK 
+* Streamlit 
+* Jupyter Notebook 
 * Pandas, Matplotlib, Seaborn (optional for EDA)
 
 ---
 
 ## 👤 Author
 
-Made with ❤️ by \[Your Name]
-[GitHub](https://github.com/YOUR_USERNAME)
+Made by Aaryan Lunis
 
 ---
 
@@ -128,11 +126,3 @@ Made with ❤️ by \[Your Name]
 This project is open-source and available under the MIT License.
 
 ---
-
-Let me know if you'd like:
-
-* A custom logo/banner
-* A link to the dataset source
-* A short demo video or GIF embedded
-
-I'm happy to help finalize your project presentation.
