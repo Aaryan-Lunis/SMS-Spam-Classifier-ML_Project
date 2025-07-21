@@ -11,7 +11,7 @@ A Machine Learning-powered web app that classifies SMS messages as **Spam** or *
 ## 🚀 Live Demo
 
 👉 **Try the app here**:
-🔗 [https://sms-spam-classifier-mlproject-cwrwdzkrmqpdy3ybxf5cib.streamlit.app/](https://sms-spam-classifier-mlproject-cwrwdzkrmqpdy3ybxf5cib.streamlit.app/)
+🔗 (https://sms-spam-classifier-mlproject-cwrwdzkrmqpdy3ybxf5cib.streamlit.app/)
 
 ---
 
