@@ -4,6 +4,7 @@
 
 A Machine Learning-powered web app that classifies SMS messages as **Spam** or **Not Spam** in real-time using NLP and a trained model. Built with Python, scikit-learn, and Streamlit.
 
+
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge\&logo=streamlit)](https://sms-spam-classifier-mlproject-cwrwdzkrmqpdy3ybxf5cib.streamlit.app/)
 
 ---
